@@ -11,3 +11,6 @@ while (pos !== -1) {
 
 console.log('Resultado: ', cadena);
 
+
+
+
